@@ -10,3 +10,7 @@ You can now find the complete collection here:
 [https://security-books.notion.site/](https://security-books.notion.site/) ✌️
 
 This move to Notion will make the collection even more accessible and easier to navigate for everyone. Thank you, and I hope this new home for the collection helps everyone on their cybersecurity journey! ✨
+
+**📢 Updated on October 1st, 2026**: 
+
+Hi all, Notion has taken down my page since it violated their policy. I'm now looking for an alternative hosting solution to keep everything accessible. I don't know yet which platform I will use, but I hope soon to find a new home for the books. I'll keep you updated here in this README file. Sorry for the inconvenience. Stay tuned!
